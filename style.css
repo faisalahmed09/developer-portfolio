@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
     
 }
 .half-width{
@@ -17,7 +18,7 @@ section{
     padding-left:3%;
 }
 .half-width img{
-    width: 70%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
